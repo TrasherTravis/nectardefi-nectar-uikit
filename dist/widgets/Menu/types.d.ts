@@ -15,6 +15,7 @@ export interface PushedProps {
     pushNav: (isPushed: boolean) => void;
 }
 export interface NavTheme {
+    topBackground: string;
     background: string;
     hover: string;
 }

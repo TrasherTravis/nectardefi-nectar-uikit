@@ -26,6 +26,7 @@ export declare type Gradients = {
     bubblegum: string;
 };
 export declare type Colors = {
+    hamburgerIcon?: string;
     primary: string;
     primaryBright: string;
     primaryDark: string;
