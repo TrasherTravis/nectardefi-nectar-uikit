@@ -179,7 +179,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "",
+    href: "https://twitter.com/NectarSwap",
   },
   // {
   //   label: "Reddit",

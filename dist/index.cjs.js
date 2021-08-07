@@ -2240,7 +2240,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "",
+        href: "https://twitter.com/NectarSwap",
     },
 ];
 var MENU_HEIGHT = 64;
